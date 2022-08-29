@@ -47,7 +47,7 @@ python main.py
 ```
 
 ## Checklist
-ID| Option| Status |
+ID| Options | Status |
 | ------ | ------ | ------ |
 | 1 | Открыть https://www.moex.com | Done |  |
 | 2 | Перейти по следующим элементам: Меню -> Срочный рынок -> Индикативные курсы; | Done |
