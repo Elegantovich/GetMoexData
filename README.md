@@ -1,10 +1,10 @@
-# TestYWeather
+# GetMoexData
 get data from yandex weather using selenium
 
 
-![Status](https://github.com/elegantovich/TestYWeather/actions/workflows/main.yml/badge.svg)
+![Status](https://github.com/elegantovich/GetMoexData/actions/workflows/main.yml/badge.svg)
 ## Description
-Скрипт для обработки данных с интерфейса сервиса "Яндекс Погода".
+Скрипт для обработки данных с интерфейса сервиса "Московская биржа".
 
 ### Tech
 Python 3.10, Selenium 4.3, Pandas 1.3
@@ -23,7 +23,7 @@ https://sites.google.com/chromium.org/driver/
 
 Clone and move to local repository:
 ```
-git clone https://github.com/Elegantovich/ShelfMatchApiTest/
+git clone https://github.com/Elegantovich/GetMoexData/
 ```
 Create a virtual environment (win):
 ```
