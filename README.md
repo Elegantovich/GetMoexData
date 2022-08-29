@@ -44,7 +44,7 @@ Run the script
 ```
 python main.py
 ```
-input city
+
 
 ## Notes
 - Драйвер должен находиться в папке с проектом.
