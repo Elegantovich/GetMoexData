@@ -1,5 +1,5 @@
 # GetMoexData
-get data from yandex weather using selenium
+get data from moex.com using selenium
 
 
 ![Status](https://github.com/elegantovich/GetMoexData/actions/workflows/main.yml/badge.svg)
