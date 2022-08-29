@@ -7,7 +7,7 @@ get data from moex.com using selenium
 Скрипт для обработки данных с интерфейса сервиса "Московская биржа".
 
 ### Tech
-Python 3.10, Selenium 4.3, Pandas 1.3
+Python 3.10, Selenium 4.3, Pandas 1.3, Numpy 1.2, lxml 4.9
 
 
 ### How to start a project:
