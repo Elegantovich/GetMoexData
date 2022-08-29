@@ -17,6 +17,7 @@ chrome://settings/help
 ```
 Скачайте и положите в папку с приложением драйвер, с версией поддерживаемой вашим браузером:
 ```
+https://chromedriver.chromium.org/downloads
 https://sites.google.com/chromium.org/driver/
 ```
 
